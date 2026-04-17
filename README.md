@@ -1,11 +1,10 @@
 # Yashar Heidari — Data Analyst Portfolio
 
-SQL-driven KPI reporting and executive-ready insights.
+Professional landing page and experience summary.
 
 ## Live
 
-- Live site: https://yheidari.github.io/data-analyst/
-- Repository: https://github.com/yheidari/data-analyst
+- Site: https://yheidari.github.io/data-analyst/
 
 ## Profile
 
@@ -13,7 +12,6 @@ Data Analyst with 5 years of experience in SaaS and consumer app marketplace env
 
 ## Contact
 
-- Location: Messina, Italy · Open to Remote
+- Location: Messina, Italy | Open to remote
 - Email: yashaarheidari@gmail.com
 - LinkedIn: https://linkedin.com/in/yheidari
-- GitHub: https://github.com/yheidari/data-analyst
